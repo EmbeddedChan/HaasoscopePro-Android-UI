@@ -25,6 +25,11 @@ Last updated: 2026-07-03
 This app is currently not available on Google Play.
 
 
+
+## 🖼 UI Preview
+
+![Screen 1](images/Screenshot_11.jpg)
+
 ## 📦 Version History
 
 
