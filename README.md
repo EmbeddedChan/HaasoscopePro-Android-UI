@@ -19,7 +19,7 @@ Developed and maintained by **EmbeddedChan**.
 
 Last updated: 2026-07-03
 
-[Download EC-FusionKit-v1.13.4.apk](https://github.com/EmbeddedChan/Haasoscope-Android-UI/raw/main/apk/EC-FusionKit-v1.13.4.apk)
+[Download EC-FusionKit-v1.13.4.apk](https://github.com/EmbeddedChan/HaasoscopePro-Android-UI/raw/main/apk/EC-FusionKit-v1.13.4.apk)
 
 
 This app is currently not available on Google Play.
