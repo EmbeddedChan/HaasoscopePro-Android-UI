@@ -1,5 +1,5 @@
 # HaasoscopePro-Android-UI
-Third-party Android UI for HaasoscopePro. Not an official HaasoscopePro project.
+Third-party Android UI for Haasoscope Pro. Not an official HaasoscopePro project.
 
 An Android UI for HaasoscopePro.
 
