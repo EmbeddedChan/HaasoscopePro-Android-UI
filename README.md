@@ -17,7 +17,7 @@ Developed and maintained by **EmbeddedChan**.
 
 ## 📥 Download
 
-Last updated: 2026-07-14
+Last updated: 2026-07-19
 
 [Download EC-FusionKit-v1.13.6.apk](https://github.com/EmbeddedChan/HaasoscopePro-Android-UI/raw/main/apk/EC-FusionKit-v1.13.6.apk)
 
